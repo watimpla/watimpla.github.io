@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://watimpla.github.io/sitemap
+Sitemap: https://watimpla.github.io/app/sitemap
+Sitemap: https://watimpla.github.io/assets/sitemap
+Sitemap: https://watimpla.github.io/css/sitemap
+Sitemap: https://watimpla.github.io/includes/sitemap
+Sitemap: https://watimpla.github.io/item/sitemap
+Sitemap: https://watimpla.github.io/src/sitemap
